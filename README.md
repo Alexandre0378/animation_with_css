@@ -8,7 +8,6 @@
         <header>
             <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
           </header> 
-          <h1>Botões Animados<br>Com CSS</h1> 
           <p><strong>Passe o mouse e veja algumas animações com CSS </strong></p>
           <div class="frame">
               <button class="custom-btn btn-1">Mais+</button> 
