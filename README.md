@@ -10,7 +10,6 @@
         <link rel="stylesheet" type="text/css" href="btn.animation.css">
         <header>
             <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-          <img src="https://cdn-icons-png.flaticon.com/128/4604/4604720.png";>
           </header> 
           <h1>Botões Animados<br>Com CSS</h1> 
           <p><strong>Passe o mouse e veja algumas animações com CSS </strong></p>
